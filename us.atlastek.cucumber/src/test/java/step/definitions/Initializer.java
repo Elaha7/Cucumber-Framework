@@ -25,7 +25,7 @@ public class Initializer extends Base {
 	
 	@After
 	public void afterHooks(Scenario scenario) {
-		tearDown();
+		// tearDown();
 		logger.info("Scenario " +scenario.getName() + " " +scenario.getStatus());
 		
 	}

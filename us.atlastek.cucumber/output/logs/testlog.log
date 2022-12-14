@@ -1,2 +1,112 @@
 2022-12-06 13:22:06,897 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
 2022-12-06 13:22:13,476 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-06 14:17:41,102 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-06 14:17:50,068 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-06 14:19:33,230 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-06 14:19:39,484 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-06 20:31:31,613 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-06 20:31:42,402 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-06 22:25:05,711 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-06 22:25:18,540 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME UNDEFINED
+2022-12-06 22:33:56,238 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-06 22:34:10,266 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 18:20:32,993 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 18:20:47,071 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 20:05:31,026 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 20:05:36,678 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data UNDEFINED
+2022-12-11 20:40:00,368 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 20:40:12,580 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 20:42:52,852 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 20:42:59,005 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME UNDEFINED
+2022-12-11 21:10:26,578 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 21:10:38,752 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 21:13:42,907 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 21:13:54,559 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 21:16:16,489 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 21:16:27,746 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 21:18:04,059 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 21:18:14,385 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 21:18:14,474 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 21:18:18,544 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data UNDEFINED
+2022-12-11 21:27:32,586 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 21:27:46,012 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 21:27:46,080 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 21:27:52,701 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data UNDEFINED
+2022-12-11 21:44:41,820 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 21:44:53,128 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 21:44:53,234 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 21:45:00,016 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data UNDEFINED
+2022-12-11 21:49:14,271 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 21:49:26,079 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 21:49:26,171 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 21:49:33,144 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data UNDEFINED
+2022-12-11 21:54:12,736 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 21:54:23,887 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 21:54:23,950 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 21:54:31,277 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data UNDEFINED
+2022-12-11 22:49:51,838 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 22:50:03,076 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 22:50:03,161 - .\src\test\resources\input\log4j.properties -INFO - Scenario List of Users, on Users tab started
+2022-12-11 22:50:07,159 - .\src\test\resources\input\log4j.properties -INFO - Scenario List of Users, on Users tab UNDEFINED
+2022-12-11 22:59:26,982 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 22:59:37,730 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 22:59:37,780 - .\src\test\resources\input\log4j.properties -INFO - Scenario List of Users, on Users tab started
+2022-12-11 22:59:47,842 - .\src\test\resources\input\log4j.properties -INFO - Scenario List of Users, on Users tab PASSED
+2022-12-11 23:18:33,462 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 23:18:44,305 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 23:18:44,335 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-11 23:18:56,230 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data PASSED
+2022-12-11 23:22:10,474 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 23:22:20,499 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 23:22:20,590 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 23:22:24,629 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data UNDEFINED
+2022-12-11 23:22:24,672 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-11 23:22:34,945 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data PASSED
+2022-12-11 23:27:30,090 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 23:27:41,092 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 23:27:41,131 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 23:27:46,192 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data FAILED
+2022-12-11 23:27:46,234 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-11 23:27:56,846 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data PASSED
+2022-12-11 23:30:11,234 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-11 23:30:22,522 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-11 23:30:22,581 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-11 23:31:01,185 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data FAILED
+2022-12-11 23:31:01,215 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-11 23:31:16,919 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data PASSED
+2022-12-12 13:23:28,523 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-12 13:23:43,987 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-12 13:23:44,073 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-12 13:24:24,932 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data FAILED
+2022-12-12 13:24:24,965 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-12 13:24:47,519 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data PASSED
+2022-12-12 20:52:55,892 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-12 20:53:13,667 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME FAILED
+2022-12-12 20:53:13,834 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-12 20:53:26,586 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data FAILED
+2022-12-12 20:53:26,736 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-12 20:53:31,425 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data FAILED
+2022-12-12 20:54:36,987 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-12 20:54:51,519 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-12 20:54:51,576 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-12 20:55:03,669 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data PASSED
+2022-12-12 20:55:03,699 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-12 20:55:21,055 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data PASSED
+2022-12-12 20:57:13,485 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-12 20:57:31,679 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-12 20:57:31,750 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-12 20:57:45,850 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data PASSED
+2022-12-12 20:57:45,878 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-12 20:58:00,965 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data PASSED
+2022-12-12 21:00:55,340 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-12 21:01:07,245 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-12 21:01:07,325 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-12 21:01:14,481 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data FAILED
+2022-12-12 21:01:14,542 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-12 21:01:22,848 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data FAILED
+2022-12-12 21:07:17,391 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME started
+2022-12-12 21:07:34,804 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME PASSED
+2022-12-12 21:07:34,896 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data started
+2022-12-12 21:07:54,195 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to actiTIME with valid data PASSED
+2022-12-12 21:07:54,263 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data started
+2022-12-12 21:08:15,911 - .\src\test\resources\input\log4j.properties -INFO - Scenario Navigating to Actitime with valid data PASSED
